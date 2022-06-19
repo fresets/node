@@ -7,7 +7,10 @@
 </p>
 
 <h2 align="center">node</h2>
-<pre><div align="center">npx @preset/cli apply username/C:\Users\rossc\code\preset.dev\node</div></pre>
+<pre>
+  <div align="center">preset apply fresets/node</div>
+  <div align="center">npx @preset/cli apply fresets/node</div>
+</pre>
 
 <br />
 
