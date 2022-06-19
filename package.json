@@ -1,0 +1,10 @@
+{
+	"private": true,
+	"author": "Ross Cooper <37559715+Froskk@users.noreply.github.com>",
+	"license": "MIT",
+	"preset": "preset.ts",
+	"devDependencies": {
+		"@preset/core": "^0.6.0",
+		"@types/node": "^18.0.0"
+	}
+}
